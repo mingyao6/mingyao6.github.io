@@ -19,6 +19,10 @@ title: Dropshipping Guide
 
 * Free plus shipping model.
 
+* [Beginner Setup](https://www.youtube.com/watch?v=tzjSFsNjBlc)
+
+* [Case Study](https://www.youtube.com/watch?v=xQAATStCoiA)
+
 ## Product Research
 
 * Product Research using [Wish](www.wish.com) and [Thieve](https://thieve.co)
