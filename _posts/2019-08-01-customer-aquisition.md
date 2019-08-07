@@ -9,8 +9,7 @@ title: Customer Aquisition Guide
 
 * [0-10K](https://sumo.com/stories/0-10k-nat-eliason?src=nat)
 
-* [SEO Tutorial](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb
-)
+* [SEO Tutorial](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb)
 
 * [Customer Aquisition Essays](https://brianbalfour.com/essays/customer-acquisition)
 
@@ -21,3 +20,5 @@ title: Customer Aquisition Guide
 * Followers - Automate likes/comments/followers - Purchase likes to stunt Instagram algorithm - Consistent Posting
 
 * Automate using [Later](https://later.com), purchase followers and likes using [Instashop](https://instashop.today)
+
+* Find hastags using [DisplayPurposes](https://displaypurposes.com)

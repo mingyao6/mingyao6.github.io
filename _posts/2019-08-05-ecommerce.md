@@ -10,3 +10,7 @@ title: eCommerce Solutions
 * Amazon Handmade - Apply with photos of tools and workspace
 
 * Shopify Boundless Theme
+
+* Gems of Paradise
+
+* Vintage Fountain Pen Repairs
