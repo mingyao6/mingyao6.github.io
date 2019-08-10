@@ -22,3 +22,5 @@ title: Customer Aquisition Guide
 * Automate using [Later](https://later.com), purchase followers and likes using [Instashop](https://instashop.today)
 
 * Find hastags using [DisplayPurposes](https://displaypurposes.com)
+
+* Don’t dilute platform - Keep Niche
